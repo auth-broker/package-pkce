@@ -1,6 +1,6 @@
 from typing import Literal, override
 
-from obo_core.pkce.schema.pkce_method import PKCEMethod
+from ab_core.pkce.schema.pkce_method import PKCEMethod
 
 from .base import PKCEGeneratorBase
 
